@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Live Link of this project is :- https://react-redux-toolkit-cart-nine.vercel.app/
+# Live Link of this project is :- 
+https://react-redux-toolkit-cart-nine.vercel.app/
 
 ## Available Scripts
 
